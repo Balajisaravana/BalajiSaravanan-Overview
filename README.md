@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Balaji Saravanan</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
-
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 - 🔭 I’m currently working on **Fitness App**
 
