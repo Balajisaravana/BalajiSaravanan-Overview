@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Fitness App**
 
-- 🌱 I’m currently learning: Mobile Application Development and Cross-Platform device integration with ****AWS****
+- 🌱 I’m currently learning: Mobile Application Development in ****React Native**** and cloud computing platform integration with ****AWS****
 
 - 💬 Ask me about **Android , MEARN**
 
