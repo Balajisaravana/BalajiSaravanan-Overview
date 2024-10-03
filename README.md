@@ -1,5 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000">
 <h1 align="center">Hi 👋, I'm Balaji Saravanan</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" height="200" src="https://magiccopy.xyz/assets/images/hadder.gif"> -->
