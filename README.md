@@ -9,13 +9,12 @@
 
 - 🔭 I’m currently working on **Fitness App**
 
-- 🌱 I’m currently learning: Mobile Application Development and Cross-Platform device integration with AWS ****
+- 🌱 I’m currently learning: Mobile Application Development and Cross-Platform device integration with ****AWS****
 
 - 💬 Ask me about **Android , MEARN**
 
 - 📫 How to reach me **balajisaravanan8720@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
