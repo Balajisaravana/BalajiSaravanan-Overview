@@ -7,7 +7,7 @@
 
 <p align="left"> <a href=" https://www.linkedin.com/in/balajisaravanan8720" target="blank"> Connect  with me at Balajisaravanan8720 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="BalajiSaravanan"  height="10" width="20"> </a> </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Fitness App **
 
 - 🌱 I’m currently learning: Mobile Application Development and Cross-Platform device integration with AWS ****
 
