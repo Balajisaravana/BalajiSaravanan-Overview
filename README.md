@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href=" https://www.linkedin.com/in/balajisaravanan8720" target="blank"> Follow me @ <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="BalajiSaravanan"  height="30" width="40">  </p>
+<p align="left"> <a href=" https://www.linkedin.com/in/balajisaravanan8720" target="blank"> Follow me @balajisaravanan8720 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="BalajiSaravanan"  height="10" width="20">  </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 
