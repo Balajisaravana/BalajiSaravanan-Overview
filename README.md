@@ -2,11 +2,8 @@
 <h1 align="center">Hi 👋, I'm Balaji Saravanan</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" height="200" src="https://magiccopy.xyz/assets/images/hadder.gif"> -->
-<img  align="right" height=200 width=350 src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
-<!-- <img alt="Coder GIF" align="right" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" /> -->
+<img  align="right" height=300 width=350 src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<!-- <img alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" /> -->
 
 - 🔭 I’m currently working on **Fitness App**
 
