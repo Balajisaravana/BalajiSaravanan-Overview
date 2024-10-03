@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Vexa Web App**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning: Mobile Application Development and Cross-Platform device integration with AWS ****
 
 - 💬 Ask me about **Android , MEARN**
 
